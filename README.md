@@ -1,1 +1,1 @@
-Performed EDA, data pre-processing on raisins dataset to classify for class: kecimin or Besni Enhanced binary classification accuracy by fine-tuning hyperparameters of LR, SVM, KNN, Decision Trees, and RF Assessed key metrics & identified soft margin SVM as best performing model with 87% accuracy and 0.84 F1 score
+Performed EDA, data pre-processing on raisins dataset to classify for class: kecimin or Besni. Calculated cross val score 0.92 using Random forest and Assessed key metrics.
